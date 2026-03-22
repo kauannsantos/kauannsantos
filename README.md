@@ -115,6 +115,6 @@ Um projeto que combina lógica de sistemas com inteligência artificial — exat
 
 <div align="center">
 
-*"Não basta estudar. Tem que construir."*
+*"Primeiro você começa, depois você melhora."*
 
 </div>
