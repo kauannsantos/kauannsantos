@@ -11,9 +11,9 @@
 
 ### Kauã Santos — Backend Developer & AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+AI+%7C+Automation;Sistemas+Bancários+e+Hospitalares;Construindo+projetos+reais.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+AI+%7C+Automation;Sistemas+Bancários+e+Hospitalares;Construindo+projetos+reais.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=kauannsantos&color=FF00FF&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=kauannsantos&color=C0344D&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -37,53 +37,43 @@ public class KauaSantos extends Developer {
 }
 ```
 
-<div align="center">
-
 Desenvolvedor backend com foco no ecossistema **Java / Spring Boot**, construindo soluções em sistemas críticos — bancário e hospitalar.
 Interesse em **Inteligência Artificial aplicada** e **automação de processos** com N8N.
-
-</div>
 
 ---
 
 ## Stack & Ferramentas
 
-<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 **Familiaridade**
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=java,cpp,postgres,git,n8n&theme=dark&perline=5" />
 
-<br><br>
+  </td>
+    <td valign="top" width="50%">
 
 **Estudando ativamente**
 
-<br>
-
 <img src="https://skillicons.dev/icons?i=spring,postgres,python&theme=dark&perline=5" />
 
-<br>
+`Spring Boot` · `Spring Security` · `PostgreSQL` · `IA com Python`
 
-`Spring Boot` &nbsp;·&nbsp; `Spring Security` &nbsp;·&nbsp; `PostgreSQL` &nbsp;·&nbsp; `IA com Python`
-
-</div>
+  </td>
+  </tr>
+</table>
 
 ---
 
 ## Projeto em Destaque
 
-<div align="center">
-
 **Chess + AI** — Jogo de xadrez em Java com motor de IA integrado.
 
-Um projeto que combina lógica de sistemas com inteligência artificial —
-exatamente na interseção do que desenvolvo.
+Um projeto que combina lógica de sistemas com inteligência artificial — exatamente na interseção do que desenvolvo.
 
-[![Repo](https://img.shields.io/badge/Ver_Repositório-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauannsantos)
-
-</div>
+[![Repo](https://img.shields.io/badge/Ver_Repositório-C0344D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauannsantos)
 
 ---
 
@@ -91,26 +81,16 @@ exatamente na interseção do que desenvolvo.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kauannsantos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannsantos&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FF00FF&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kauannsantos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C0344D&icon_color=C0344D&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannsantos&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=C0344D&text_color=c9d1d9" height="165"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=kauannsantos&hide_border=true&background=0d1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&sideLabels=FF00FF&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="700"/>
+<img src="https://streak-stats.demolab.com?user=kauannsantos&hide_border=true&background=0d1117&ring=C0344D&fire=C0344D&currStreakLabel=C0344D&sideLabels=C0344D&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="700"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauannsantos&bg_color=0d1117&color=FF00FF&line=FF00FF&point=ffffff&area=true&hide_border=true" width="700"/>
-
-</div>
-
----
-
-## Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kauannsantos&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauannsantos&bg_color=0d1117&color=C0344D&line=C0344D&point=ffffff&area=true&hide_border=true" width="700"/>
 
 </div>
 
