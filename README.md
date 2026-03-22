@@ -13,7 +13,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+AI+%7C+Automation;Sistemas+Bancários+e+Hospitalares;Construindo+projetos+reais.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=kauannsantos&color=C0344D&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -95,6 +94,9 @@ Um projeto que combina lógica de sistemas com inteligência artificial — exat
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kauannsantos/kauannsantos/output/github-snake-dark.svg" />
+</div>
 
 ## Contato
 
