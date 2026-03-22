@@ -11,7 +11,7 @@
 
 ### Kauã Santos — Backend Developer & AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+IA+Aplicada;Automação+com+N8N+%7C+Workflows;Construindo+soluções+reais+com+Java.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+IA+Aplicada;Programação+Competitiva+%7C+C%2B%2B;Construindo+soluções+reais+com+Java.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=kauannsantos&color=C0344D&style=flat-square&label=PROFILE+VIEWS)
 
@@ -26,7 +26,7 @@ public class KauaSantos extends Developer {
 
     String nome       = "Kauã Santos";
     String foco       = "Backend Developer & AI";
-    String[] domínios = {"Java Backend", "APIs REST", "Automação", "IA Aplicada", "N8N"};
+    String[] domínios = {"Java Backend", "APIs REST", "Automação", "IA Aplicada", "N8N", "Prog. Competitiva"};
     String objetivo   = "Trabalhar em empresas grandes ou no exterior";
     boolean disponível = true;
 
@@ -38,7 +38,7 @@ public class KauaSantos extends Developer {
 ```
 
 Desenvolvedor backend com foco no ecossistema **Java / Spring Boot**, construindo APIs robustas e soluções escaláveis.
-Interesse em **Inteligência Artificial aplicada** e **automação de processos** com N8N.
+Interesse em **Inteligência Artificial aplicada**, **automação de processos** com N8N e **programação competitiva** com C++.
 
 ---
 
