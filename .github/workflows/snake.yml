@@ -18,8 +18,7 @@ jobs:
         with:
           github_user_name: kauannsantos
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=C0344D&color_dots=#0d1117,#1a0a0d,#3d1020,#8c1f3f,#C0344D
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
