@@ -72,7 +72,7 @@ Interesse em **Inteligência Artificial aplicada**, **automação de processos**
 
 Um projeto que combina lógica de sistemas com inteligência artificial — exatamente na interseção do que desenvolvo.
 
-[![Repo](https://img.shields.io/badge/Ver_Repositório-C0344D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauannsantos)
+[![Repo]([https://img.shields.io/badge/Ver_Repositório-C0344D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauannsantos](https://github.com/kauannsantos/checkmate-engine))
 
 ---
 
