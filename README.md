@@ -11,8 +11,9 @@
 
 ### Kauã Santos — Backend Developer & AI
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+AI+%7C+Automation;Sistemas+Bancários+e+Hospitalares;Construindo+projetos+reais.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+IA+Aplicada;Automação+com+N8N+%7C+Workflows;Construindo+soluções+reais+com+Java.)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=kauannsantos&color=C0344D&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -25,7 +26,7 @@ public class KauaSantos extends Developer {
 
     String nome       = "Kauã Santos";
     String foco       = "Backend Developer & AI";
-    String[] domínios = {"Sistemas Bancários", "Sistemas Hospitalares", "Automação", "IA"};
+    String[] domínios = {"Java Backend", "APIs REST", "Automação", "IA Aplicada", "N8N"};
     String objetivo   = "Trabalhar em empresas grandes ou no exterior";
     boolean disponível = true;
 
@@ -36,7 +37,7 @@ public class KauaSantos extends Developer {
 }
 ```
 
-Desenvolvedor backend com foco no ecossistema **Java / Spring Boot**, construindo soluções em sistemas críticos — bancário e hospitalar.
+Desenvolvedor backend com foco no ecossistema **Java / Spring Boot**, construindo APIs robustas e soluções escaláveis.
 Interesse em **Inteligência Artificial aplicada** e **automação de processos** com N8N.
 
 ---
@@ -94,9 +95,12 @@ Um projeto que combina lógica de sistemas com inteligência artificial — exat
 </div>
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/kauannsantos/kauannsantos/output/github-snake-dark.svg" />
 </div>
+
+---
 
 ## Contato
 
