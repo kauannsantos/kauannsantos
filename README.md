@@ -13,7 +13,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+IA+Aplicada;Programação+Competitiva+%7C+C%2B%2B;Construindo+soluções+reais+com+Java.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=kauannsantos&color=C0344D&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
