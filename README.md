@@ -80,9 +80,6 @@ Um projeto que combina lógica de sistemas com inteligência artificial — exat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kauannsantos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C0344D&icon_color=C0344D&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannsantos&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=C0344D&text_color=c9d1d9" height="165"/>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=kauannsantos&hide_border=true&background=0d1117&ring=C0344D&fire=C0344D&currStreakLabel=C0344D&sideLabels=C0344D&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="700"/>
@@ -106,7 +103,7 @@ Um projeto que combina lógica de sistemas com inteligência artificial — exat
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauannsantos)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](SEU_INSTAGRAM_AQUI)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauansant.s/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantsdev@gmail.com)
 
 </div>
