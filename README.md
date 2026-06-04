@@ -1,18 +1,14 @@
 <div align="center">
+██╗  ██╗ █████╗ ██╗   ██╗ █████╗     ███████╗ █████╗ ███╗   ██╗████████╗ █████╗  ██████╗
+██║ ██╔╝██╔══██╗██║   ██║██╔══██╗    ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝
+█████╔╝ ███████║██║   ██║███████║    ███████╗███████║██╔██╗ ██║   ██║   ██║  ██║╚█████╗
+██╔═██╗ ██╔══██║██║   ██║██╔══██║    ╚════██║██╔══██║██║╚██╗██║   ██║   ██║  ██║ ╚═══██╗
+██║  ██╗██║  ██║╚██████╔╝██║  ██║    ███████║██║  ██║██║ ╚████║   ██║   ╚█████╔╝██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚════╝ ╚═════╝
 
-```
-██╗  ██╗ █████╗ ██╗   ██╗ █████╗     ███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗
-██║ ██╔╝██╔══██╗██║   ██║██╔══██╗    ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝
-█████╔╝ ███████║██║   ██║███████║    ███████╗███████║██╔██╗ ██║   ██║   ██║   ██║███████╗
-██╔═██╗ ██╔══██║██║   ██║██╔══██║    ╚════██║██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║
-██║  ██╗██║  ██║╚██████╔╝██║  ██║    ███████║██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝
-```
+### Kauã Santos | Backend · DevOps
 
-### Kauã Santos — Backend Developer & AI
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+IA+Aplicada;Programação+Competitiva+%7C+C%2B%2B;Construindo+soluções+reais+com+Java.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+APIs+REST;Backend+Developer+%7C+DevOps;Automação+%7C+N8N+%7C+Python;Construindo+soluções+reais+com+Java.)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,49 +16,23 @@
 
 ## Sobre mim
 
-```java
-public class KauaSantos extends Developer {
+Sou desenvolvedor backend com foco no ecossistema **<span style="color:#C0344D">Java</span>** e **<span style="color:#C0344D">Spring Boot</span>**, construindo APIs robustas e sistemas que escalam de verdade.
 
-    String nome       = "Kauã Santos";
-    String foco       = "Backend Developer & AI";
-    String[] domínios = {"Java Backend", "APIs REST", "Automação", "IA Aplicada", "N8N", "Prog. Competitiva"};
-    String objetivo   = "Trabalhar em empresas grandes ou no exterior";
-    boolean disponível = true;
+Tenho interesse sólido em **<span style="color:#C0344D">DevOps</span>**, automação de processos com **<span style="color:#C0344D">N8N</span>** e **<span style="color:#C0344D">Inteligência Artificial aplicada</span>** ao backend. Programação competitiva com C++ faz parte da minha rotina de estudo também.
 
-    @Override
-    public String toString() {
-        return "Movido por projetos reais e metas grandes.";
-    }
-}
-```
-
-Desenvolvedor backend com foco no ecossistema **Java / Spring Boot**, construindo APIs robustas e soluções escaláveis.
-Interesse em **Inteligência Artificial aplicada**, **automação de processos** com N8N e **programação competitiva** com C++.
+Meu objetivo é trabalhar em empresas grandes ou no exterior, e cada projeto que entrego é um passo nessa direção.
 
 ---
 
 ## Stack & Ferramentas
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div align="center">
 
-**Familiaridade**
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,postgres,git,n8n&theme=dark&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=java,cpp,postgres,git,n8n&theme=dark&perline=5" />
+`Java` · `Spring Boot` · `Spring Security` · `C++` · `Python` · `PostgreSQL` · `Git` · `N8N`
 
-  </td>
-    <td valign="top" width="50%">
-
-**Estudando ativamente**
-
-<img src="https://skillicons.dev/icons?i=spring,postgres,python&theme=dark&perline=5" />
-
-`Spring Boot` · `Spring Security` · `PostgreSQL` · `IA com Python`
-
-  </td>
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -70,7 +40,7 @@ Interesse em **Inteligência Artificial aplicada**, **automação de processos**
 
 **Chess + AI** — Jogo de xadrez em Java com motor de IA integrado.
 
-Um projeto que combina lógica de sistemas com inteligência artificial — exatamente na interseção do que desenvolvo.
+Um projeto que combina lógica de sistemas com inteligência artificial, exatamente na interseção do que estudo e desenvolvo no dia a dia.
 
 [![Repo](https://img.shields.io/badge/Ver_Repositório-C0344D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauannsantos/checkmate-engine)
 
