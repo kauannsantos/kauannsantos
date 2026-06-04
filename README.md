@@ -1,105 +1,117 @@
 <div align="center">
 
-# kauã santos
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=FD6001&center=true&vCenter=true&width=600&lines=building+things+that+actually+work;backend+%2F+devops+%2F+cloud;computer+engineering+%40+maranhão;obsessed+with+systems+that+scale" />
-
-</div>
-
----
-
-Engenharia da Computação. Backend com Java. Obcecado com sistemas que funcionam de verdade — não só em localhost.
-
-Atualmente construindo projetos, estudando Cloud e tentando escrever código que eu não me envergonhe de reler daqui a 6 meses.
-
-A longo prazo: Arquiteto de Software ou Cloud Engineer. Até lá, é execução.
-
----
-
-## o que uso
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,docker,linux,postgres,git,github,githubactions,aws&theme=dark&perline=10" />
-</div>
-
----
-
-## o que estou construindo agora
-
-```text
-checkmate-engine   →  motor de xadrez em Java com Minimax + Alpha-Beta Pruning
-portfólio técnico  →  projetos reais, não apenas tutoriais
-base em Cloud      →  AWS, infraestrutura, IaC (no forno)
-rotina de estudos  →  DevOps · Java · Python · Inglês — todo dia, sem exceção
+```
+██╗  ██╗ █████╗ ██╗   ██╗ █████╗     ███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗
+██║ ██╔╝██╔══██╗██║   ██║██╔══██╗    ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝
+█████╔╝ ███████║██║   ██║███████║    ███████╗███████║██╔██╗ ██║   ██║   ██║   ██║███████╗
+██╔═██╗ ██╔══██║██║   ██║██╔══██║    ╚════██║██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║
+██║  ██╗██║  ██║╚██████╔╝██║  ██║    ███████║██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝
 ```
 
----
+### Kauã Santos | Backend Developer & DevOps
 
-## stack de verdade
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=C0344D&center=true&vCenter=true&width=600&lines=DevOps;Backend+Java+%7C+IA+Aplicada.)](https://git.io/typing-svg)
 
-| camada | tecnologias |
-|--------|-------------|
-| backend | Java · Spring Boot · Spring Security · REST · JWT |
-| dados | PostgreSQL · JPA/Hibernate · modelagem relacional |
-| devops | Docker · Linux · GitHub Actions · CI/CD |
-| cloud | AWS (em evolução) |
-| outros | Python · automações · n8n · integração com IA |
-
----
-
-## números
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kauannsantos&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FD6001&icon_color=FD6001&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauannsantos&layout=compact&hide_border=true&bg_color=0d1117&title_color=FD6001&text_color=c9d1d9&langs_count=5" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kauannsantos&hide_border=true&background=0d1117&ring=FD6001&fire=FD6001&currStreakLabel=FD6001&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
 ---
 
-## próximos passos
+## Sobre mim
 
-```yaml
-2025:
-  - AWS Cloud Practitioner
-  - portfólio com projetos reais no ar
-  - estágio em Cloud ou DevOps
+```java
+public class KauaSantos extends Developer {
 
-2026:
-  - AWS Solutions Architect Associate
-  - Kubernetes na prática
-  - contribuições open source
+    String nome       = "Kauã Santos";
+    String foco       = "Backend Developer & AI";
+    String[] domínios = {"Java Backend", "APIs REST", "Automação", "IA Aplicada", "N8N", "Prog. Competitiva"};
+    String objetivo   = "Trabalhar em empresas grandes ou no exterior";
+    boolean disponível = true;
 
-depois disso:
-  - arquitetura de sistemas distribuídos
-  - Platform Engineering
-  - "..."  # ainda estou escrevendo essa parte
+    @Override
+    public String toString() {
+        return "Movido por projetos reais e metas grandes.";
+    }
+}
 ```
 
----
-
-## projeto em destaque
-
-**[checkmate-engine](https://github.com/kauannsantos/checkmate-engine)** — motor de xadrez escrito em Java.
-Minimax com Alpha-Beta Pruning, OOP, estruturas de dados.
-Não porque precisava. Porque queria entender como funciona por dentro.
+Desenvolvedor backend com foco no ecossistema **Java / Spring Boot**, construindo APIs robustas e soluções escaláveis.
+Interesse em **Inteligência Artificial aplicada**, **automação de processos** com N8N e **programação competitiva** com C++.
 
 ---
+
+## Stack & Ferramentas
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**Familiaridade**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,postgres,git,n8n&theme=dark&perline=5" />
+
+  </td>
+    <td valign="top" width="50%">
+
+**Estudando ativamente**
+
+<img src="https://skillicons.dev/icons?i=spring,postgres,python&theme=dark&perline=5" />
+
+`Spring Boot` · `Spring Security` · `PostgreSQL` · `IA com Python`
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## Projeto em Destaque
+
+**Chess + AI** — Jogo de xadrez em Java com motor de IA integrado.
+
+Um projeto que combina lógica de sistemas com inteligência artificial — exatamente na interseção do que desenvolvo.
+
+[![Repo](https://img.shields.io/badge/Ver_Repositório-C0344D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauannsantos/checkmate-engine)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauannsantos)
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kauannsantos)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/kauansant.s)
 
 <br>
 
-*construindo. aprendendo. repetindo.*
+<img src="https://streak-stats.demolab.com?user=kauannsantos&hide_border=true&background=0d1117&ring=C0344D&fire=C0344D&currStreakLabel=C0344D&sideLabels=C0344D&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="700"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauannsantos&bg_color=0d1117&color=C0344D&line=C0344D&point=ffffff&area=true&hide_border=true" width="700"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kauannsantos/kauannsantos/output/github-snake-dark.svg" />
+</div>
+
+---
+
+## Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauannsantos)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauansant.s/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauansantsdev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Primeiro você começa, depois você melhora."*
 
 </div>
