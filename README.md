@@ -1,10 +1,10 @@
-<div align="center">
-██╗  ██╗ █████╗ ██╗   ██╗ █████╗     ███████╗ █████╗ ███╗   ██╗████████╗ █████╗  ██████╗
-██║ ██╔╝██╔══██╗██║   ██║██╔══██╗    ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔════╝
-█████╔╝ ███████║██║   ██║███████║    ███████╗███████║██╔██╗ ██║   ██║   ██║  ██║╚█████╗
-██╔═██╗ ██╔══██║██║   ██║██╔══██║    ╚════██║██╔══██║██║╚██╗██║   ██║   ██║  ██║ ╚═══██╗
-██║  ██╗██║  ██║╚██████╔╝██║  ██║    ███████║██║  ██║██║ ╚████║   ██║   ╚█████╔╝██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚════╝ ╚═════╝
+markdown<div align="center">
+██╗  ██╗ █████╗ ██╗   ██╗ █████╗     ███████╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███████╗
+██║ ██╔╝██╔══██╗██║   ██║██╔══██╗    ██╔════╝██╔══██╗████╗  ██║╚══██╔══╝██╔═══██╗██╔════╝
+█████╔╝ ███████║██║   ██║███████║    ███████╗███████║██╔██╗ ██║   ██║   ██║   ██║███████╗
+██╔═██╗ ██╔══██║██║   ██║██╔══██║    ╚════██║██╔══██║██║╚██╗██║   ██║   ██║   ██║╚════██║
+██║  ██╗██║  ██║╚██████╔╝██║  ██║    ███████║██║  ██║██║ ╚████║   ██║   ╚██████╔╝███████║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚══════╝
 
 ### Kauã Santos | Backend · DevOps
 
@@ -16,9 +16,9 @@
 
 ## Sobre mim
 
-Sou desenvolvedor backend com foco no ecossistema **<span style="color:#C0344D">Java</span>** e **<span style="color:#C0344D">Spring Boot</span>**, construindo APIs robustas e sistemas que escalam de verdade.
+Sou desenvolvedor backend com foco no ecossistema **Java** e **Spring Boot**, construindo APIs robustas e sistemas que escalam de verdade.
 
-Tenho interesse sólido em **<span style="color:#C0344D">DevOps</span>**, automação de processos com **<span style="color:#C0344D">N8N</span>** e **<span style="color:#C0344D">Inteligência Artificial aplicada</span>** ao backend. Programação competitiva com C++ faz parte da minha rotina de estudo também.
+Tenho interesse sólido em **DevOps**, automação de processos com **N8N** e **Inteligência Artificial aplicada** ao backend. Programação competitiva com C++ faz parte da minha rotina de estudo também.
 
 Meu objetivo é trabalhar em empresas grandes ou no exterior, e cada projeto que entrego é um passo nessa direção.
 
